@@ -15,5 +15,6 @@ Make suggestions by opening an issue or a pull request.
 - `Glassdoor` - https://www.glassdoor.com
 - `ISCB careers` - bioinformatics and computational jobs in academia. https://careers.iscb.org
 - `Bioinformatics.org` - bioinformatics jobs forum. https://www.bioinformatics.org/jobs/
+- `MSD jobs` - Merck job board. https://jobs.msd.com/
 - `EuroPharmaJobs` - jobs in Europe. https://www.europharmajobs.com/
 - `QuantBio` - crowdsource jobs listing, for faculty and postdoc positions. https://docs.google.com/spreadsheets/d/1Kfx9yxPsSmwG4rGartrbngCZAKnXSP2qB384pGP2qqU/edit#gid=513847731
