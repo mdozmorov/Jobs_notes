@@ -7,6 +7,7 @@ Make suggestions by opening an issue or a pull request.
 - `NatureJobs` - jobs posted by Nature journal. https://www.nature.com/naturecareers
 - `ScienceCareers` - jobs posted by Science journal. https://jobs.sciencecareers.org/
 - `Cell Career Network` - jobs posted by Cell journal. http://jobs.cell.com/
+- `FACEB jobs` - jobs posted by Federation of American Societies for Experimental Biology. https://careers.faseb.org/jobs/
 - `usajobs.gov` - jobs in federal government. https://www.usajobs.gov/
 - `Juju` - jobs in industry. http://www.juju.com/
 - `AcademicJobsOnline` - jobs in academia. https://academicjobsonline.org
