@@ -19,3 +19,7 @@ Make suggestions by opening an issue or a pull request.
 - `MSD jobs` - Merck job board. https://jobs.msd.com/
 - `EuroPharmaJobs` - jobs in Europe. https://www.europharmajobs.com/
 - `QuantBio` - crowdsource jobs listing, for faculty and postdoc positions. https://docs.google.com/spreadsheets/d/1Kfx9yxPsSmwG4rGartrbngCZAKnXSP2qB384pGP2qqU/edit#gid=513847731
+
+# Misc
+
+- Resources for faculty by Ming Tang, https://github.com/crazyhottommy/The-world-of-faculty
