@@ -25,3 +25,6 @@ Make suggestions by opening an issue or a pull request.
 - Resources for faculty by Ming Tang, https://github.com/crazyhottommy/The-world-of-faculty
 
 - Fleming, Nic. “How to Give a Great Scientific Talk.” Nature 564, no. 7736 (December 2018): S84–85. https://doi.org/10.1038/d41586-018-07780-5. https://www.nature.com/articles/d41586-018-07780-5
+
+- R Markdown Résumés and CVs, https://ropenscilabs.github.io/vitae/, https://github.com/ropenscilabs/vitae
+
