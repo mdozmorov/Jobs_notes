@@ -28,3 +28,5 @@ Make suggestions by opening an issue or a pull request.
 
 - R Markdown Résumés and CVs, https://ropenscilabs.github.io/vitae/, https://github.com/ropenscilabs/vitae
 
+- A database of ~700 funding schemes and fellowships for #postdocs and early career researchers and much more #ecrchat #phdchat  @ECRcentral, [tweet](https://twitter.com/khanaziz84/status/1093875757925974016), https://ecrcentral.org/fundings
+
