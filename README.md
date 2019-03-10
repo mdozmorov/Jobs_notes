@@ -4,6 +4,12 @@ The listing is intended primarily for bioinformatics, biostatistics, computation
 
 Make suggestions by opening an issue or a pull request.
 
+* [Resources](#resources)
+* [CV, resume templates](#cv--resume-templates)
+* [Misc](#misc)
+
+## Resources
+
 - `NatureJobs` - jobs posted by Nature journal. https://www.nature.com/naturecareers
 - `ScienceCareers` - jobs posted by Science journal. https://jobs.sciencecareers.org/
 - `Cell Career Network` - jobs posted by Cell journal. http://jobs.cell.com/
@@ -20,7 +26,14 @@ Make suggestions by opening an issue or a pull request.
 - `EuroPharmaJobs` - jobs in Europe. https://www.europharmajobs.com/
 - `QuantBio` - crowdsource jobs listing, for faculty and postdoc positions. https://docs.google.com/spreadsheets/d/1Kfx9yxPsSmwG4rGartrbngCZAKnXSP2qB384pGP2qqU/edit#gid=513847731
 
-# Misc
+## CV, resume templates
+
+- A collection of cv and resume templates written in LaTeX, https://github.com/jankapunkt/latexcv
+- R Markdown Résumés and CVs, https://ropenscilabs.github.io/vitae/, https://github.com/ropenscilabs/vitae
+- YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font, https://github.com/darwiin/yaac-another-awesome-cv
+
+
+## Misc
 
 - Notes on interview questions, for faculty and postdoc positions. Specific questions and general recommendations. https://lgatto.github.io/interview-questions/
 
