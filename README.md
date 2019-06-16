@@ -36,6 +36,8 @@ Make suggestions by opening an issue or a pull request.
 
 ## Misc
 
+- R Programming: 35 Job Interview Questions and Answers. https://www.datasciencecentral.com/profiles/blogs/r-programming-job-interview-questions-and-answers
+
 - Notes on interview questions, for faculty and postdoc positions. Specific questions and general recommendations. https://lgatto.github.io/interview-questions/
 
 - Resources for faculty by Ming Tang, https://github.com/crazyhottommy/The-world-of-faculty
