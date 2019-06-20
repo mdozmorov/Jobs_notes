@@ -32,7 +32,7 @@ Make suggestions by opening an issue or a pull request.
 - A collection of cv and resume templates written in LaTeX, https://github.com/jankapunkt/latexcv
 - R Markdown Résumés and CVs, https://ropenscilabs.github.io/vitae/, https://github.com/ropenscilabs/vitae
 - YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font, https://github.com/darwiin/yaac-another-awesome-cv
-
+- How To Build An Amazing LinkedIn Profile (15+ Proven Tips), https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/
 
 ## Misc
 
