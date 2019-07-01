@@ -44,6 +44,8 @@ Make suggestions by opening an issue or a pull request.
 
 - 10 Things No One Told Me About Applying for Tenure, https://chroniclevitae.com/news/2191-10-things-no-one-told-me-about-applying-for-tenure
 
+- Chalk talks: how to avoid 10 pitfalls, https://sociobiology.wordpress.com/2016/10/11/chalk-talks-how-to-avoid-10-pitfalls/
+
 - Fleming, Nic. “How to Give a Great Scientific Talk.” Nature 564, no. 7736 (December 2018): S84–85. https://doi.org/10.1038/d41586-018-07780-5. https://www.nature.com/articles/d41586-018-07780-5
 
 - R Markdown Résumés and CVs, https://ropenscilabs.github.io/vitae/, https://github.com/ropenscilabs/vitae
