@@ -6,6 +6,7 @@ Make suggestions by opening an issue or a pull request.
 
 * [Resources](#resources)
 * [CV, resume templates](#cv--resume-templates)
+* [Job talk](#job-talk)
 * [Ten simple rules](#ten-simple-rules)
 * [Misc](#misc)
 
@@ -35,6 +36,13 @@ Make suggestions by opening an issue or a pull request.
 - YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font, https://github.com/darwiin/yaac-another-awesome-cv
 - How To Build An Amazing LinkedIn Profile (15+ Proven Tips), https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/
 
+## Job talk
+
+- Chalk talks: how to avoid 10 pitfalls, https://sociobiology.wordpress.com/2016/10/11/chalk-talks-how-to-avoid-10-pitfalls/
+
+- Fleming, Nic. “How to Give a Great Scientific Talk.” Nature 564, no. 7736 (December 2018): S84–85. https://doi.org/10.1038/d41586-018-07780-5. https://www.nature.com/articles/d41586-018-07780-5
+
+
 ## Ten simple rules
 
 - Sura, Shayna A., Lauren L. Smith, Monique R. Ambrose, C. Eduardo Guerra Amorim, Annabel C. Beichman, Ana C. R. Gomez, Mark Juhn, et al. “Ten Simple Rules for Giving an Effective Academic Job Talk.” PLoS Computational Biology 15, no. 7 (July 2019): e1007163. https://doi.org/10.1371/journal.pcbi.1007163. - Know your audience, sell yourself, impress the expert colleagues, appeal to the non-experts, summarize best of your best, give a good talk, make clear slides (recommendations provided), describe your vision, master Q&A session, be professional.
@@ -43,19 +51,13 @@ Make suggestions by opening an issue or a pull request.
 
 ## Misc
 
-- R Programming: 35 Job Interview Questions and Answers. https://www.datasciencecentral.com/profiles/blogs/r-programming-job-interview-questions-and-answers
+- Resources for faculty by Ming Tang, https://github.com/crazyhottommy/The-world-of-faculty
 
 - Notes on interview questions, for faculty and postdoc positions. Specific questions and general recommendations. https://lgatto.github.io/interview-questions/
 
-- Resources for faculty by Ming Tang, https://github.com/crazyhottommy/The-world-of-faculty
-
 - 10 Things No One Told Me About Applying for Tenure, https://chroniclevitae.com/news/2191-10-things-no-one-told-me-about-applying-for-tenure
 
-- Chalk talks: how to avoid 10 pitfalls, https://sociobiology.wordpress.com/2016/10/11/chalk-talks-how-to-avoid-10-pitfalls/
-
-- Fleming, Nic. “How to Give a Great Scientific Talk.” Nature 564, no. 7736 (December 2018): S84–85. https://doi.org/10.1038/d41586-018-07780-5. https://www.nature.com/articles/d41586-018-07780-5
-
-- R Markdown Résumés and CVs, https://ropenscilabs.github.io/vitae/, https://github.com/ropenscilabs/vitae
+- R Programming: 35 Job Interview Questions and Answers. https://www.datasciencecentral.com/profiles/blogs/r-programming-job-interview-questions-and-answers
 
 - A database of ~700 funding schemes and fellowships for #postdocs and early career researchers and much more #ecrchat #phdchat  @ECRcentral, [tweet](https://twitter.com/khanaziz84/status/1093875757925974016), https://ecrcentral.org/fundings
 
