@@ -6,6 +6,7 @@ Make suggestions by opening an issue or a pull request.
 
 * [Resources](#resources)
 * [CV, resume templates](#cv--resume-templates)
+* [Ten simple rules](#ten-simple-rules)
 * [Misc](#misc)
 
 ## Resources
@@ -33,6 +34,12 @@ Make suggestions by opening an issue or a pull request.
 - R Markdown Résumés and CVs, https://ropenscilabs.github.io/vitae/, https://github.com/ropenscilabs/vitae
 - YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font, https://github.com/darwiin/yaac-another-awesome-cv
 - How To Build An Amazing LinkedIn Profile (15+ Proven Tips), https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/
+
+## Ten simple rules
+
+- Sura, Shayna A., Lauren L. Smith, Monique R. Ambrose, C. Eduardo Guerra Amorim, Annabel C. Beichman, Ana C. R. Gomez, Mark Juhn, et al. “Ten Simple Rules for Giving an Effective Academic Job Talk.” PLoS Computational Biology 15, no. 7 (July 2019): e1007163. https://doi.org/10.1371/journal.pcbi.1007163. - Know your audience, sell yourself, impress the expert colleagues, appeal to the non-experts, summarize best of your best, give a good talk, make clear slides (recommendations provided), describe your vision, master Q&A session, be professional.
+
+
 
 ## Misc
 
