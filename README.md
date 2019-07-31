@@ -7,7 +7,6 @@ Make suggestions by opening an issue or a pull request.
 * [Resources](#resources)
 * [CV, resume templates](#cv--resume-templates)
 * [Job talk](#job-talk)
-* [Ten simple rules](#ten-simple-rules)
 * [Misc](#misc)
 
 ## Resources
@@ -45,8 +44,6 @@ Make suggestions by opening an issue or a pull request.
 - Tips for a Successful Job Talk. https://www.insidehighered.com/advice/2018/01/10/advice-giving-effective-job-presentation-opinion
 
 - Giving a Job Talk in the Sciences. https://www.chronicle.com/article/Giving-a-Job-Talk-in-the/45375
-
-## Ten simple rules
 
 - Sura, Shayna A., Lauren L. Smith, Monique R. Ambrose, C. Eduardo Guerra Amorim, Annabel C. Beichman, Ana C. R. Gomez, Mark Juhn, et al. “Ten Simple Rules for Giving an Effective Academic Job Talk.” PLoS Computational Biology 15, no. 7 (July 2019): e1007163. https://doi.org/10.1371/journal.pcbi.1007163. - Know your audience, sell yourself, impress the expert colleagues, appeal to the non-experts, summarize best of your best, give a good talk, make clear slides (recommendations provided), describe your vision, master Q&A session, be professional.
 
