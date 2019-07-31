@@ -42,6 +42,7 @@ Make suggestions by opening an issue or a pull request.
 
 - Fleming, Nic. “How to Give a Great Scientific Talk.” Nature 564, no. 7736 (December 2018): S84–85. https://doi.org/10.1038/d41586-018-07780-5. https://www.nature.com/articles/d41586-018-07780-5
 
+- Tips for a Successful Job Talk. https://www.insidehighered.com/advice/2018/01/10/advice-giving-effective-job-presentation-opinion
 
 ## Ten simple rules
 
