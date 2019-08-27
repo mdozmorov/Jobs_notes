@@ -51,6 +51,8 @@ Make suggestions by opening an issue or a pull request.
 
 ## Misc
 
+- Bioinformatics job posting by Nicolas Descostes, https://github.com/descostesn/jobposting, [source](https://twitter.com/NDescostes/status/1165973907716890624?s=03)
+
 - Resources for faculty by Ming Tang, https://github.com/crazyhottommy/The-world-of-faculty
 
 - Notes on interview questions, for faculty and postdoc positions. Specific questions and general recommendations. https://lgatto.github.io/interview-questions/
@@ -58,6 +60,4 @@ Make suggestions by opening an issue or a pull request.
 - 10 Things No One Told Me About Applying for Tenure, https://chroniclevitae.com/news/2191-10-things-no-one-told-me-about-applying-for-tenure
 
 - R Programming: 35 Job Interview Questions and Answers. https://www.datasciencecentral.com/profiles/blogs/r-programming-job-interview-questions-and-answers
-
-- A database of ~700 funding schemes and fellowships for #postdocs and early career researchers and much more #ecrchat #phdchat  @ECRcentral, [tweet](https://twitter.com/khanaziz84/status/1093875757925974016), https://ecrcentral.org/fundings
 
