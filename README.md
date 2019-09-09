@@ -51,6 +51,8 @@ Make suggestions by opening an issue or a pull request.
 
 ## Misc
 
+- Professional Development videos. https://www.ibiology.org/career-development/professional-development/
+
 - Bioinformatics job posting by Nicolas Descostes, https://github.com/descostesn/jobposting, [source](https://twitter.com/NDescostes/status/1165973907716890624?s=03)
 
 - Resources for faculty by Ming Tang, https://github.com/crazyhottommy/The-world-of-faculty
