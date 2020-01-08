@@ -37,7 +37,7 @@ Make suggestions by opening an issue or a pull request.
 - RMarkdown CV built using the [pagedown](https://pagedown.rbind.io/) R package:
     - Guangchuang Yu's CV, https://github.com/GuangchuangYu/cv
     - Nick Strayer's CV, https://github.com/nstrayer/cv
-
+- Examples of Research/Teaching, Diversity statements, Research proposals, https://drive.google.com/drive/folders/0B6KLy6OkrG-ZeUZyMmV2Q3l5RzQ
 
 ## Job talk
 
