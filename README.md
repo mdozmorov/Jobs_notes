@@ -60,6 +60,9 @@ Make suggestions by opening an issue or a pull request.
 
 - Bourne, Philip E. “Ten Simple Rules for Making Good Oral Presentations.” PLoS Computational Biology 3, no. 4 (April 27, 2007): e77. https://doi.org/10.1371/journal.pcbi.0030077. - Rules to make a good oral presentation.
 
+- Questions to ask on an academic job interview, https://graduate.dartmouth.edu/student-support/career-services/interview-practice-techniques/interviewing-academic-job
+
+
 ## Letters of recommendation
 
 - Writing a Letter of Recommendation, https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/letter.pdf
