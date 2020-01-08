@@ -86,3 +86,6 @@ Make suggestions by opening an issue or a pull request.
 - DO YOU ACTUALLY KNOW WHAT TENURE IS? https://mymidcareeracademiclife.blogspot.com/2020/01/do-you-actually-know-what-tenure-is.html
 
 - What does it take to get a tenure-track job, https://chroniclevitae.com/news/1775-i-found-a-tenure-track-job-here-s-what-it-took
+
+- Predicting PI likelihood from publication metrics. [Supplementary table S1](https://www.sciencedirect.com/science/article/pii/S0960982214004771?via%3Dihub#app2) - features most predictive for becoming PI.
+    - Dijk, David van, Ohad Manor, and Lucas B. Carey. “Publication Metrics and Success on the Academic Job Market.” Current Biology 24, no. 11 (June 2014): R516–17. https://doi.org/10.1016/j.cub.2014.04.039.
