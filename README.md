@@ -84,3 +84,5 @@ Make suggestions by opening an issue or a pull request.
 - R Programming: 35 Job Interview Questions and Answers. https://www.datasciencecentral.com/profiles/blogs/r-programming-job-interview-questions-and-answers
 
 - DO YOU ACTUALLY KNOW WHAT TENURE IS? https://mymidcareeracademiclife.blogspot.com/2020/01/do-you-actually-know-what-tenure-is.html
+
+- What does it take to get a tenure-track job, https://chroniclevitae.com/news/1775-i-found-a-tenure-track-job-here-s-what-it-took
