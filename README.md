@@ -89,3 +89,5 @@ Make suggestions by opening an issue or a pull request.
 
 - Predicting PI likelihood from publication metrics. [Supplementary table S1](https://www.sciencedirect.com/science/article/pii/S0960982214004771?via%3Dihub#app2) - features most predictive for becoming PI.
     - Dijk, David van, Ohad Manor, and Lucas B. Carey. “Publication Metrics and Success on the Academic Job Market.” Current Biology 24, no. 11 (June 2014): R516–17. https://doi.org/10.1016/j.cub.2014.04.039.
+
+- Tregoning, John S., and Jason E. McDermott. “Ten Simple Rules to Becoming a Principal Investigator.” Edited by Fran Lewitter. PLOS Computational Biology 16, no. 2 (February 20, 2020): e1007448. https://doi.org/10.1371/journal.pcbi.1007448.
