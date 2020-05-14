@@ -28,6 +28,7 @@ Make suggestions by opening an issue or a pull request.
 - `EuroPharmaJobs` - jobs in Europe. https://www.europharmajobs.com/
 - `QuantBio` - crowdsource jobs listing, for faculty and postdoc positions. https://docs.google.com/spreadsheets/d/1Kfx9yxPsSmwG4rGartrbngCZAKnXSP2qB384pGP2qqU/edit#gid=513847731
 - `GeneticsCareers.org` - the jobs board provided by the Genetics Society of America. http://geneticscareers.org/
+- [THEORETICAL COMPUTER SCIENCE JOBS](https://cstheory-jobs.org) - listings and the possibility to post
 
 ## CV, resume templates
 
