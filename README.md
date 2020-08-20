@@ -2,16 +2,24 @@
 
 The listing is intended primarily for bioinformatics, biostatistics, computational jobs. Most of the job web sites allow to create alerts customized with relevant keywords. Also, post your resume, where available.
 
-Make suggestions by opening an issue or a pull request.
+Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
-* [Resources](#resources)
-* [CV, resume templates](#cv-resume-templates)
-* [Job material](#job-material)
-  * [Talk](#talk)
-  * [Interview](#interview)
-  * [Ten simple rules](#ten-simple-rules)
-  * [Letters of recommendation](#letters-of-recommendation)
-* [Resources](#resources)
+# Table of content
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Resources](#resources)
+- [CV, resume templates](#cv-resume-templates)
+- [Job material](#job-material)
+  - [Talk](#talk)
+  - [Interview](#interview)
+  - [Ten simple rules](#ten-simple-rules)
+  - [Letters of recommendation](#letters-of-recommendation)
+- [Resources](#resources-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Resources
 
