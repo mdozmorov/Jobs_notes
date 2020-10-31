@@ -1,6 +1,6 @@
 # Notes for job seekers 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 The listing is intended primarily for bioinformatics, biostatistics, computational jobs. Most of the job web sites allow to create alerts customized with relevant keywords. Also, post your resume, where available.
 
@@ -54,6 +54,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 - RMarkdown CV built using the [pagedown](https://pagedown.rbind.io/) R package:
     - [Guangchuang Yu's CV](https://github.com/GuangchuangYu/cv)
     - [Nick Strayer's CV](https://github.com/nstrayer/cv)
+- [Panel CV for designers (or engineers)](https://github.com/jekyller/PanelCV)
 
 ## Job material
 
