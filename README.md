@@ -99,6 +99,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - [Resources for faculty by Ming Tang](https://github.com/crazyhottommy/The-world-of-faculty)
 
+- [10 rules to survive in the marvelous but sinuous world of academia](https://www.elsevier.com/connect/10-rules-to-survive-in-the-marvellous-but-sinuous-world-of-academia#_ednref2)
+
 - [The Top 7 Management Styles: Which Ones Are Most Effective?](https://www.workzone.com/blog/management-styles/)
 
 - [Professional Development videos, iBiology](https://www.ibiology.org/career-development/professional-development/)
