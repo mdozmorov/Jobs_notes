@@ -114,3 +114,6 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 - Predicting PI likelihood from publication metrics. [Supplementary table S1](https://www.sciencedirect.com/science/article/pii/S0960982214004771?via%3Dihub#app2) - features most predictive for becoming PI.
     - Dijk, David van, Ohad Manor, and Lucas B. Carey. “[Publication Metrics and Success on the Academic Job Market](https://doi.org/10.1016/j.cub.2014.04.039).” Current Biology 24, no. 11 (June 2014)
 
+- What a professor does. [Tweet](https://twitter.com/Unlazy_Susan/status/1409276731786027009?s=20) by Dr. Susan Wardell
+
+![](What_a_lecturer_does_(S.Wardell).jpeg)
