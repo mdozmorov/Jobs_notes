@@ -118,4 +118,4 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - What a professor does. [Tweet](https://twitter.com/Unlazy_Susan/status/1409276731786027009?s=20) by Dr. Susan Wardell
 
-![](What_a_lecturer_does_(S.Wardell).jpeg)
+![](What_a_lecturer_does_S_Wardell.jpeg)
