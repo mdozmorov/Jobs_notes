@@ -74,6 +74,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ### Interview
 
+- Chan, Dalen, Christina M. Fitzsimmons, Mariana D. Mandler, and Pedro J. Batista. “[Ten Simple Rules for Acing Virtual Interviews](https://doi.org/10.1371/journal.pcbi.1009057).” PLOS Computational Biology 17, no. 6 (June 24, 2021) - 1) Keep it professional; 2) Test the technology; 3) Prepare the location; 4) Be an interviewer and an interviewee; 5) Keep a familiar routine, and pace yourself; 6) Communicate clearly, ask for clarification; 7) Embrace Murphy's law; 8) Connect with university's students/environment; 9) Send Follow-up e-mails; 10) Imagine the future. Primarily for students/postdocs. Table 1 - questions you'll be asked and can ask.
+
 - [Questions to ask on an academic job interview, Dartmouth](https://graduate.dartmouth.edu/student-support/career-services/interview-practice-techniques/interviewing-academic-job)
 
 - [Notes on interview questions, for faculty and postdoc positions. By Lauren Gatto](https://lgatto.github.io/interview-questions/)
@@ -82,7 +84,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ### Ten simple rules
 
-- Tregoning, John S., and Jason E. McDermott. “[Ten Simple Rules to Becoming a Principal Investigator](https://doi.org/10.1371/journal.pcbi.1007448).” Edited by Fran Lewitter. PLOS Computational Biology 16, no. 2 (February 20, 2020)
+- Tregoning, John S., and Jason E. McDermott. “[Ten Simple Rules to Becoming a Principal Investigator](https://doi.org/10.1371/journal.pcbi.1007448).” PLOS Computational Biology 16, no. 2 (February 20, 2020)
 
 - Sura, Shayna A., Lauren L. Smith, Monique R. Ambrose, C. Eduardo Guerra Amorim, Annabel C. Beichman, Ana C. R. Gomez, Mark Juhn, et al. “[Ten Simple Rules for Giving an Effective Academic Job Talk](https://doi.org/10.1371/journal.pcbi.1007163).” PLoS Computational Biology 15, no. 7 (July 2019) - Know your audience, sell yourself, impress the expert colleagues, appeal to the non-experts, summarize best of your best, give a good talk, make clear slides (recommendations provided), describe your vision, master Q&A session, be professional.
 
