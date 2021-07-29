@@ -47,6 +47,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ## CV, resume templates
 
+- [vitae](https://pkg.mitchelloharawild.com/vitae/) - an R package with Templates and tools for making a Résumé/CV. [GitHub](https://github.com/mitchelloharawild/vitae), [CRAN](https://cloud.r-project.org/package=vitae)
 - [How To Build An Amazing LinkedIn Profile (15+ Proven Tips)](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/)
 - [A collection of cv and resume templates written in LaTeX](https://github.com/jankapunkt/latexcv)
 - [Templates and tools for making a Résumé/CV, vitae R package](https://ropenscilabs.github.io/vitae/)
