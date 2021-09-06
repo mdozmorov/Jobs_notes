@@ -96,6 +96,9 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ### Letters of recommendation
 
+- Sarabipour, Sarvenaz, Sarah J Hainer, Emily Furlong, Naﬁsa M Jadavji, Charlotte M de Winde, Natalia Bielczyk, and Aparna P Shah. “[Writing an Effective and Supportive Recommendation Letter](https://doi.org/10.1111/febs.15757).” The FEBS Journal, 2021, 10.
+
+
 - [Writing a Letter of Recommendation](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/letter.pdf)
 
 ## Resources
