@@ -61,6 +61,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - Examples of Research/Teaching, Diversity statements, Research proposals, [Future PI Slack Documents](https://drive.google.com/drive/folders/1ZNQXrOh_NJ7YKNajI8EC1329rGQzBjA4), [Sample Materials for Faculty Positions, UCSF](https://career.ucsf.edu/phds/academic-careers/academic-samples), [Successful Job and Grant Applications](https://github.com/RILAB/statements)
 
+- [The Academic Job Search: Preparing Your Job Package](https://youtu.be/PlnKyalOZ3s) - 1h:32m NIH OTIE video
+
 ### Talk
 
 - [How To Tell Your Story Retention](https://www.dropbox.com/s/52ulhzkgzm78zix/How%20To%20Tell%20Your%20Story%20Retention%20Document.pdf?dl=0)
