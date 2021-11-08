@@ -19,7 +19,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
   - [Interview](#interview)
   - [Ten simple rules](#ten-simple-rules)
   - [Letters of recommendation](#letters-of-recommendation)
-- [Resources](#resources-1)
+- [Misc](#misc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -44,6 +44,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 - [THEORETICAL COMPUTER SCIENCE JOBS](https://cstheory-jobs.org) - listings and the possibility to post
 - [Lists of bioinformatics job posting, LinkedIn groups, by Nicolas Descostes](https://github.com/descostesn/jobposting), [source](https://twitter.com/NDescostes/status/1165973907716890624?s=03)
 
+- [Resources for faculty by Ming Tang](https://github.com/crazyhottommy/The-world-of-faculty)
 
 ## CV, resume templates
 
@@ -103,11 +104,9 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - [Writing a Letter of Recommendation](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/letter.pdf)
 
-## Resources
+## Misc
 
 - [10 lessons from my first year as a tenure-track faculty](https://jean.fan/2021/07/05/ten-lessons-from-my-first-year-as-a-tenure-track-faculty.html) by Jean Fan. [Tweet](https://twitter.com/JEFworks/status/1412172075373109250?s=20)
-
-- [Resources for faculty by Ming Tang](https://github.com/crazyhottommy/The-world-of-faculty)
 
 - [10 rules to survive in the marvelous but sinuous world of academia](https://www.elsevier.com/connect/10-rules-to-survive-in-the-marvellous-but-sinuous-world-of-academia#_ednref2)
 
