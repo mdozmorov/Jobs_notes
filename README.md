@@ -106,6 +106,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ## Misc
 
+- [Has the ‘great resignation’ hit academia?](https://doi.org/10.1038/d41586-022-01512-6) - A wave of departures, many of them by mid-career scientists, calls attention to widespread discontent in universities.
+
 - [Faculty hiring and changing representation in academia](https://aaronclauset.github.io/slides/Clauset_2021_FacultyHiringAndChangingRepresentationInAcademia_BerkeleyCTEG.pdf) - slides by Aaron Clauset, [Tweet](https://twitter.com/aaronclauset/status/1456779064484634625?s=20)
 
 - [10 lessons from my first year as a tenure-track faculty](https://jean.fan/2021/07/05/ten-lessons-from-my-first-year-as-a-tenure-track-faculty.html) by Jean Fan. [Tweet](https://twitter.com/JEFworks/status/1412172075373109250?s=20)
