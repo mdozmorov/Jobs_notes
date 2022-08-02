@@ -48,6 +48,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ## CV, resume templates
 
+- [Awesome-CV](https://github.com/posquit0/Awesome-CV) - LaTeX templates for resume and cover letter. [Example pdf](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) and editable version on [Overleaf]
+(https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
 - [vitae](https://pkg.mitchelloharawild.com/vitae/) - an R package with Templates and tools for making a Résumé/CV. [GitHub](https://github.com/mitchelloharawild/vitae), [CRAN](https://cloud.r-project.org/package=vitae)
 - [How To Build An Amazing LinkedIn Profile (15+ Proven Tips)](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/)
 - [A collection of cv and resume templates written in LaTeX](https://github.com/jankapunkt/latexcv)
