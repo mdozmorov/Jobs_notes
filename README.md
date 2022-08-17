@@ -28,6 +28,10 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 - [NatureJobs](https://www.nature.com/naturecareers) - jobs posted by Nature journal
 - [ScienceCareers](https://jobs.sciencecareers.org/) - jobs posted by Science journal
 - [Cell Career Network](http://jobs.cell.com/) - jobs posted by Cell journal
+- [AcademicKeys](https://www.academickeys.com/) - Higher Ed Job Announcements
+- [The Chronicle of Higher Education](https://www.chronicle.com/) - find/post higher ed jobs
+- [Inside Higher Ed](https://careers.insidehighered.com/) job search and posting
+- [UnivCollegeJobs](https://univcollegejobs.com/) - Academic Jobs University College Teaching Education Higher Ed
 - [FACEB jobs](https://careers.faseb.org/jobs/) - jobs posted by Federation of American Societies for Experimental Biology
 - [usajobs.gov](https://www.usajobs.gov/) - jobs in federal government
 - [Juju](http://www.juju.com/) - jobs in industry
