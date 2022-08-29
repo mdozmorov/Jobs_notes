@@ -15,6 +15,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 - [Resources](#resources)
 - [CV, resume templates](#cv-resume-templates)
 - [Job material](#job-material)
+  - [NIH OTIE video](#nih-otie-video)
   - [Talk](#talk)
   - [Interview](#interview)
   - [Ten simple rules](#ten-simple-rules)
@@ -68,7 +69,11 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - Examples of Research/Teaching, Diversity statements, Research proposals, [Future PI Slack Documents](https://drive.google.com/drive/folders/1ZNQXrOh_NJ7YKNajI8EC1329rGQzBjA4), [Sample Materials for Faculty Positions, UCSF](https://career.ucsf.edu/phds/academic-careers/academic-samples), [Successful Job and Grant Applications](https://github.com/RILAB/statements)
 
-- [The Academic Job Search: Preparing Your Job Package](https://youtu.be/PlnKyalOZ3s) - 1h:32m NIH OTIE video
+### NIH OTIE video
+
+- [The Academic Job Search: Preparing Your Job Package](https://youtu.be/PlnKyalOZ3s)
+- [Industry Careers Overview & Job Packages](https://youtu.be/7DdvUw31aY4)
+- [Networking for Scientists (2021)](https://youtu.be/F0dtHQ3PmlY)
 
 ### Talk
 
