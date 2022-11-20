@@ -90,6 +90,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ### Interview
 
+- [Interview tips](https://twitter.com/theantonioreza/status/1593630383035351040?s=20&t=ifOOfspsg8n7OUlbnQyIJA) Twitter thread by [Antonio Reza](https://twitter.com/theantonioreza), head of finance at Google. 
+
 - Chan, Dalen, Christina M. Fitzsimmons, Mariana D. Mandler, and Pedro J. Batista. “[Ten Simple Rules for Acing Virtual Interviews](https://doi.org/10.1371/journal.pcbi.1009057).” PLOS Computational Biology 17, no. 6 (June 24, 2021) - 1) Keep it professional; 2) Test the technology; 3) Prepare the location; 4) Be an interviewer and an interviewee; 5) Keep a familiar routine, and pace yourself; 6) Communicate clearly, ask for clarification; 7) Embrace Murphy's law; 8) Connect with university's students/environment; 9) Send Follow-up e-mails; 10) Imagine the future. Primarily for students/postdocs. Table 1 - questions you'll be asked and can ask.
 
 - [Questions to ask on an academic job interview, Dartmouth](https://graduate.dartmouth.edu/student-support/career-services/interview-practice-techniques/interviewing-academic-job)
