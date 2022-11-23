@@ -106,6 +106,8 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - Sura, Shayna A., Lauren L. Smith, Monique R. Ambrose, C. Eduardo Guerra Amorim, Annabel C. Beichman, Ana C. R. Gomez, Mark Juhn, et al. “[Ten Simple Rules for Giving an Effective Academic Job Talk](https://doi.org/10.1371/journal.pcbi.1007163).” PLoS Computational Biology 15, no. 7 (July 2019) - Know your audience, sell yourself, impress the expert colleagues, appeal to the non-experts, summarize best of your best, give a good talk, make clear slides (recommendations provided), describe your vision, master Q&A session, be professional.
 
+- Lang, Thomas A. “Writing a Better Research Article.” Journal of Public Health and Emergency 1 (December 18, 2017): 88–88. https://doi.org/10.21037/jphe.2017.11.06. - Tips on improving writing skills
+
  - Bourne, Philip E. “[Ten Simple Rules for Getting Ahead as a Computational Biologist in Academia](https://doi.org/10.1371/journal.pcbi.1002001).” PLoS Computational Biology 7, no. 1 (January 6, 2011) - Tips for emphasizing your strengths in CV, job applications, promotion letters
 
 - Bourne, Philip E. “[Ten Simple Rules for Making Good Oral Presentations](https://doi.org/10.1371/journal.pcbi.0030077).” PLoS Computational Biology 3, no. 4 (April 27, 2007) - Rules to make a good oral presentation.
