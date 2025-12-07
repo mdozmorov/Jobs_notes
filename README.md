@@ -26,6 +26,7 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 ## Resources
 
+- [ACM, Association for Computing Machinery](https://www.acm.org/education/resources-for-grads) - links to computer science-related job boards 
 - [NatureJobs](https://www.nature.com/naturecareers) - jobs posted by Nature journal
 - [ScienceCareers](https://jobs.sciencecareers.org/) - jobs posted by Science journal
 - [Cell Career Network](http://jobs.cell.com/) - jobs posted by Cell journal
